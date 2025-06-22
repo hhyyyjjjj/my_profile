@@ -27,10 +27,10 @@ st.subheader("📸 사진첩")
 
 # 이미지 파일 리스트 (이름은 실제 파일명으로 바꾸세요!)
 image_files = [
-    "profile_gpt.jpg", "profilebaby.jpg", "profilesidar.jpg",
-    "profilecrown.jpg", "profile9month.jpg","profileian1.jpg", 
-    "profileaegae.jpg", "profileinst.jpg","profilegop.jpg", 
-    "profilerun.jpg", "profilebike.jpg", "profilehike.jpg",
+    "profile_gpt.JPG", "profilebaby.jpg", "profilesidar.JPG",
+    "profilecrown.jpg", "profile9month.jpg","profileian1.JPG", 
+    "profileaegae.jpg", "profilegop.JPG","profileinst.JPG", 
+    "profilerun.JPG", "profilebike.JPG", "profilehike.JPG",
 ]
 
 # 3 x 3 배열로 사진 보여주기
